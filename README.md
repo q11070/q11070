@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @q11070
 - 👀 I’m interested in everything UI
-- 🌱 I’m currently learning React, Angular, Figma
+- 🌱 I’m currently learning Figma, CSS layouts, animations and a bit of CI/CD
 - 💞️ I’m looking to collaborate on everything UI
 - 📫 How to reach me ...
 
